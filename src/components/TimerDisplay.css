@@ -1,0 +1,19 @@
+.main {
+    borderBottom: '1px solid #d9dae0';
+    display: 'flex'
+}
+
+.left {
+    fontSize: 30px;
+    fontFamily: 'HelveticaNeue-UltraLight';
+    color: '#7f8083';
+    padding: 20px;
+    flex: 1
+}
+
+.right {
+    fontSize: 30px;
+    padding: 20px;
+    fontFamily: 'HelveticaNeue-UltraLight';
+    color: '#7f8083'
+}
